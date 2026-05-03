@@ -11,3 +11,9 @@ Este proyecto fue desarrollado en Java aplicando conceptos de Programación Orie
 
 ## 🚀 Cómo ejecutar
 1. Clonar el repositorio:
+git clone https://github.com/edwarren2005/poo_unidad1.git
+
+2. Abrir el proyecto en Eclipse
+
+3. Ejecutar la clase:
+PruebaAudioVisual.java
